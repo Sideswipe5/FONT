@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'test-font';
-  src:  url('fonts/test-font.eot?37vtcj');
-  src:  url('fonts/test-font.eot?37vtcj#iefix') format('embedded-opentype'),
-    url('fonts/test-font.ttf?37vtcj') format('truetype'),
-    url('fonts/test-font.woff?37vtcj') format('woff'),
-    url('fonts/test-font.svg?37vtcj#test-font') format('svg');
+  src:  url('test-font.eot?37vtcj');
+  src:  url('test-font.eot?37vtcj#iefix') format('embedded-opentype'),
+    url('test-font.ttf?37vtcj') format('truetype'),
+    url('test-font.woff?37vtcj') format('woff'),
+    url('test-font.svg?37vtcj#test-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
